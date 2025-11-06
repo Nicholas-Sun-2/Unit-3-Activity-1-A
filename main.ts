@@ -1,7 +1,7 @@
 /**
  * @author Nicholas Sun
  * @version 1.0.0
- * @date 2025-10-01
+ * @date 2025-11-05
  * @fileoverview This program declares variables.
  */
 
